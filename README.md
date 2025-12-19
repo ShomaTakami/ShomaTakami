@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Shoma 👋
 
-<!--
-**ShomaTakami/ShomaTakami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+フリーランスのWebエンジニアです。  
+主に **Laravel / MySQL / AWS** を中心に、業務システム・SaaS開発に携わっています。
 
-Here are some ideas to get you started:
+- 💼 Freelance Web Engineer
+- 🛠 Backend: Laravel / PHP / MySQL
+- ☁️ Infrastructure: AWS (EC2, RDS, ALB, S3)
+- 📦 Others: Docker, GitHub Actions
+- 🌱 Currently learning: Go, modern backend architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShomaTakami&show_icons=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShomaTakami&layout=compact)
+
+> ※ 業務の多くは Private / Organization リポジトリで行っています
+
+---
+
+## 🚀 What I do
+
+- 業務向けSaaS / Webアプリケーションの設計・実装
+- 既存Laravelプロジェクトの改善・保守
+- AWS上でのインフラ構築・運用
+- CSV / Excel / PDF など業務系データ処理
+
+---
+
+## 📫 Contact
+
+- GitHub: https://github.com/ShomaTakami
+
