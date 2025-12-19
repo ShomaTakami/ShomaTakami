@@ -9,11 +9,7 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShomaTakami&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShomaTakami&layout=compact)
-
-> ※ 業務の多くは Private / Organization リポジトリで行っています
 
 ---
 
@@ -27,3 +23,4 @@
 ---
 
 ![](https://raw.githubusercontent.com/ShomaTakami/ShomaTakami/output/github-contribution-grid-snake.svg)
+> ※ 業務の多くは Private / Organization リポジトリで行っています
