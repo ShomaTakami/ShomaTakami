@@ -1,5 +1,3 @@
-# Hi, I'm Shoma 👋
-
 フリーランスのWebエンジニアです。  
 主に **Laravel / MySQL / AWS** を中心に、業務システム・SaaS開発に携わっています。
 
