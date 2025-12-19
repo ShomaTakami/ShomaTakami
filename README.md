@@ -25,3 +25,7 @@
 - 既存Laravelプロジェクトの改善・保守
 - AWS上でのインフラ構築・運用
 - CSV / Excel / PDF など業務系データ処理
+
+---
+
+![](https://raw.githubusercontent.com/ShomaTakami/ShomaTakami/output/github-contribution-grid-snake.svg)
