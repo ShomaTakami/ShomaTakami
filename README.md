@@ -7,10 +7,10 @@
 - 📦 Others: Docker, GitHub Actions
 - 🌱 Currently learning: Go, modern backend architecture
 
----
+<!-- --- -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShomaTakami&layout=compact)
-
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShomaTakami&layout=compact)
+-->
 ---
 
 ## 🚀 What I do
